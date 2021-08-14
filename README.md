@@ -1,6 +1,6 @@
 # Test
 
 
-Enhaced mod features
+Enhanced moderation features
 
-### The most advance mod tools for reddit, *ever*
+### The most advanced moderation tools for reddit, *ever*
