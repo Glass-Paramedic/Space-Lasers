@@ -1,6 +1,6 @@
-# Test
+# Space-Lasers
 
 
-Enhaced mod features
+Enhanced mod features.
 
-### The most advance mod tools for reddit, *ever*
+### The most advanced mod bot for Reddit, *ever*!
